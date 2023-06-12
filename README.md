@@ -5,7 +5,8 @@ Data Analytics Portfolio
 <h3 align="center">A passionate Data Analyst from Gurugram, India.</h3>
 
 - 👨‍💻 All of my projects are available at 
-- SQL/Python = [https://github.com/TheDivyajeet/dj_portfolio](https://github.com/TheDivyajeet/dj_portfolio)
+- SQL = [[https://github.com/TheDivyajeet/dj_portfolio](https://github.com/TheDivyajeet/dj_portfolio/tree/main/SQL)]
+- Python = 
 - Power BI = 
 
 - 📫 How to reach me **thedivyajeet@gmail.com**
