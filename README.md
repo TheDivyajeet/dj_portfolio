@@ -1,5 +1,4 @@
-# dj_portfolio
-Data Analytics Portfolio
+<h1 align="center">Data Analytics Portfolio</h1>
 
 <h1 align="center">Hello 👋, I'm Divyajeet Singh</h1>
 <h3 align="center">A passionate Data Analyst from Gurugram, India.</h3>
