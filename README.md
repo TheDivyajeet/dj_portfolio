@@ -6,7 +6,7 @@ Data Analytics Portfolio
 
 - 👨‍💻 All of my projects are available at 
 - SQL = [[https://github.com/TheDivyajeet/dj_portfolio](https://github.com/TheDivyajeet/dj_portfolio/tree/main/SQL)]
-- Python = 
+- Python = https://github.com/TheDivyajeet/dj_portfolio/tree/main/Python
 - Power BI = 
 
 - 📫 How to reach me **thedivyajeet@gmail.com**
