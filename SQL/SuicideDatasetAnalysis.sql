@@ -27,7 +27,6 @@ EXEC sp_help  suicide
 
 ---------- 2. Mention the total number of nations whose data is present in this table.
 
-
 SELECT COUNT(DISTINCT country) AS total_countries
 FROM suicide
 
