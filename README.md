@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at 
 - SQL = https://github.com/TheDivyajeet/dj_portfolio/tree/main/SQL
 - Python = https://github.com/TheDivyajeet/dj_portfolio/tree/main/Python
-- Power BI = 
+- Power BI = https://www.novypro.com/profile_projects/divyajeetsingh
 
 - 📫 How to reach me **thedivyajeet@gmail.com**
 
