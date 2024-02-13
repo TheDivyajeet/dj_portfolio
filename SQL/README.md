@@ -9,3 +9,8 @@ The dataset contains Sales & inventory data for a fictitious chain of toy stores
 
 In this project we have gathered the dataset from Kaggle site and then performed exploratory data analysis on it.
 The dataset contains information about the suicides occured in each country from year 1985-2016.
+
+<h3>Project 3: Famous Paintings Dataset Analysis</h3> - https://github.com/TheDivyajeet/dj_portfolio/blob/main/SQL/FamousPaintingsDatasetAnalysis.sql
+
+In this project we have gathered the dataset from Kaggle site (https://www.kaggle.com/datasets/mexwell/famous-paintings) and then performed analysis on it to answer various questions related to the paintings, thier artists and the museums in which those paintings are displayed in.
+The dataset contains information about various famous paintings, the artists who drew them and the museums in which those paintings are displayed in.
