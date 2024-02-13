@@ -7,7 +7,7 @@ The dataset contains Sales & inventory data for a fictitious chain of toy stores
 
 <h3>Project 2: Suicide Dataset Exploratory Data Analysis</h3> - https://github.com/TheDivyajeet/dj_portfolio/blob/main/SQL/SuicideDatasetAnalysis.sql
 
-In this project we have gathered the dataset from Kaggle site and then performed exploratory data analysis on it.
+In this project we have gathered the dataset from Kaggle site (https://www.kaggle.com/datasets/russellyates88/suicide-rates-overview-1985-to-2016) and then performed exploratory data analysis on it.
 The dataset contains information about the suicides occured in each country from year 1985-2016.
 
 <h3>Project 3: Famous Paintings Dataset Analysis</h3> - https://github.com/TheDivyajeet/dj_portfolio/blob/main/SQL/FamousPaintingsDatasetAnalysis.sql
