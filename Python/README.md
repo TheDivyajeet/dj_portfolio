@@ -9,3 +9,8 @@ The dataset contains record of 918 patients along with their health markers.
 
 In this project we have built a webscraper using BeautifulSoup python library.
 We have extracted details of cars being sold at Cars24.com and then enclosed all that details in an excel file.
+
+<h3>Project 3: Pizza Place Sales Analysis</h3> - 
+https://github.com/TheDivyajeet/dj_portfolio/blob/main/Python/Pizza%20Place%20Sales%20Final.ipynb
+
+In this project we have gathered the dataset from Maven Analytics site and then performed sales analysis, derived KPIs and created charts to visualise trends related to Revenue, Total Orders, Category Distribution etc.
